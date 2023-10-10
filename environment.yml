@@ -1,4 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - nbgitpuller==1.0.1
+  - nbgitpuller==1.0.0
